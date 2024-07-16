@@ -27,3 +27,4 @@ weekButton.addEventListener('click', () => {
         behavior: 'smooth'
     });
 });
+
